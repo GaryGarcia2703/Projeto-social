@@ -35,3 +35,12 @@ section#laptop {
     background: url(../imagens/laptop.png);
     background-repeat: no-repeat;
 }
+
+iframe#tela {
+    position: relative;
+    top: 106px;
+    left: 84px;
+    width: 329px;
+    height: 208px;
+
+}
