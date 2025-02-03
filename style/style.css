@@ -38,12 +38,12 @@ section#laptop {
 
 iframe#tela {
     position: relative;
-    top: 106px;
-    left: 84px;
-    width: 329px;
-    height: 208px;
-
+    top: 104px;
+    left: 78px;
+    width: 336px;
+    height: 211px;
 }
+
 
 div#container {
     display: flex;
