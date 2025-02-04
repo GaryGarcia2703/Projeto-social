@@ -30,24 +30,29 @@ section#laptop {
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 500px;
-    width: 500px;
+    height: 750px;
+    width: 750px;
     background: url(../imagens/laptop.png);
     background-repeat: no-repeat;
 }
 
 iframe#tela {
     position: relative;
-    top: 104px;
-    left: 78px;
-    width: 336px;
-    height: 211px;
+    top: 157px;
+    left: 122px;
+    width: 500px;
+    height: 315px;
+}
+
+a {
+    position: relative;
+    z-index: 1;
 }
 
 
 div#container {
     display: flex;
-  justify-content: center;
+    justify-content: center;
 }
 
 section#redessociais img {
